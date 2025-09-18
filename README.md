@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 
-![Uploading 39039aaf-2d7e-46d6-9ab1-cbd886052e6b (1).gif…]()
+![Profile background](assets/profile_bg.gif)
+
 
 - 🔭 I’m currently working on **Bus Routing System**
 
