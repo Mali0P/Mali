@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pranesh Mali</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1>Hi 👋, I'm Pranesh Mali</h1>
 
 
 ![Profile background](assets/profile_bg.gif)
 
+I'm Pranesh Mali, a frontend developer passionate about building interactive and visually engaging web experiences using **React** and **GSAP**. I enjoy turning design ideas into smooth, responsive websites and exploring modern web technologies like **Zustand**, **TailwindCSS**, and **Firebase**. When I'm not coding, I love experimenting with animations, improving my UI/UX skills, and learning new frameworks and tools to make web apps faster and more dynamic.  
+
+📫 You can reach me at pranesh.malakar.1@gmail.com 
 
 - 🔭 I’m currently working on **Bus Routing System**
 
@@ -13,18 +15,14 @@
 - Portfolio Website  
   [Live Demo](https://praneshmali-portfolio.netlify.app/) – Personal portfolio built with React + Tailwind + GSAP animations.
 
-- Lazarev Clone 
+- Lazarev Clone <br/>
   [Live Demo](https://lazarev-praneshmali.netlify.app/) – Smooth GSAP animations inspired by Lazarev design.
 
-- Crypto Hunter
-  [Live Demo](https://crypto-hunter-clone.netlify.app/) – Real-time crypto prices using public APIs.
+- Crypto Hunter <br/>[Live Demo](https://crypto-hunter-clone.netlify.app/) – Real-time crypto prices using public APIs.
 
-- Zustand Gallery
+- Zustand Gallery <br/>
   [Live Demo](https://zustandgallery.netlify.app/) – Lightweight gallery powered by Zustand.
 
-- 💬 Ask me about **react, tailwind, gsap**
-
-- 📫 How to reach me **pranesh.malakar.1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
