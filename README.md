@@ -5,7 +5,18 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [https://praneshmali-portfolio.netlify.app/](https://praneshmali-portfolio.netlify.app/)
+- ### 🚀 Projects
+- [Portfolio Website](https://github.com/username/portfolio)  
+  [Live Demo](https://praneshmali-portfolio.netlify.app/) – Personal portfolio built with React + Tailwind + GSAP animations.
+
+- [Lazarev Clone](https://github.com/username/lazarev-clone)  
+  [Live Demo](https://lazarev-praneshmali.netlify.app/) – Smooth GSAP animations inspired by Lazarev design.
+
+- [Crypto Hunter](https://github.com/username/crypto-hunter)  
+  [Live Demo](https://crypto-hunter-clone.netlify.app/) – Real-time crypto prices using public APIs.
+
+- [Zustand Gallery](https://github.com/username/zustand-gallery)  
+  [Live Demo](https://zustandgallery.netlify.app/) – Lightweight gallery powered by Zustand.
 
 - 💬 Ask me about **react, tailwind, gsap**
 
